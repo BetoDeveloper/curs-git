@@ -12,6 +12,8 @@ namespace Teste
         {
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("Bom Dia");
+            Console.WriteLine("Como você está hoje?");
         }
+        
     }
 }
